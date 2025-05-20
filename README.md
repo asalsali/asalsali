@@ -3,7 +3,7 @@
 🎯 I build thoughtful, purpose-driven products that serve real people.
 
 🏗️ Former CTO @ MedMelanin  
-🧱 Founder @ TitheChain | Wedflow  
+🧱 Founder @ Eunoia | Wedflow  
 📊 Product + Data + Sports + Faith
 
 ---
@@ -20,7 +20,7 @@ Every project I touch is guided by the same principle: serve others well and bui
 ## 🔨 Things I’ve Worked on or Building
 
 - 🧬 **MedMelanin**: Equity-first healthcare tools for underserved groups 
-- 🙏 **TitheChain**: A blockchain-based platform for transparent, trackable giving  
+- 🙏 **Eunoia**: A blockchain-based platform for transparent, trackable giving  
 - 💍 **Wedflow**: An AI-powered agile planner for engaged couples  
 - 🏀 **Game Flow Visualizer**: Visual play breakdowns for basketball coaching
 
