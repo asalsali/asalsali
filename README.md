@@ -3,7 +3,7 @@
 🎯 I build thoughtful, purpose-driven products that serve real people.
 
 🏗️ Former CTO @ MedMelanin  
-🧱 Founder @ Eunoia | Wedflow | FairHold 
+🧱 Founder @ Eunoia Labs | Wedflow | FairHold | Evident AI
 📊 Product + Data + Faith
 
 ---
