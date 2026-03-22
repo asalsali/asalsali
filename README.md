@@ -3,7 +3,7 @@
 🎯 I build thoughtful, purpose-driven products that serve real people.
 
 🏗️ Former CTO @ MedMelanin  
-🧱 Founder @ Eunoia Labs | Wedflow | FairHold | Evident AI
+🧱 Founder @ Eunoia Labs | Wedflow | Evident AI
 📊 Product + Data + Faith
 
 ---
@@ -21,7 +21,7 @@ Every project I touch is guided by the same principle: serve others well and bui
 
 - 🧬 **MedMelanin**: Equity-first healthcare tools for underserved groups 
 - 🙏 **Eunoia**: A blockchain-based platform for transparent, trackable giving  
-- 💍 **Wedflow**: An AI-powered agile planner for engaged couples  
+- 💍 **Wedflow**: An AI-powered SMS wedding concierge for engaged couples  
 - 🏀 **Game Flow Visualizer**: Visual play breakdowns for basketball coaching
 
 ---
