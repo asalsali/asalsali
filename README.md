@@ -3,7 +3,7 @@
 🎯 I build thoughtful, purpose-driven products that serve real people.
 
 🏗️ Former CTO @ MedMelanin  
-🧱 Founder @ Eunoia Labs | Wedflow | Evident AI
+🧱 Founder @ Eunoia Labs | Wedflow | Evident AI | EduRun
 📊 Product + Data + Faith
 
 ---
