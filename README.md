@@ -11,17 +11,7 @@
 ## ✨ About Me
 
 I'm a product-minded builder with a background in software engineering, sports performance, and startup strategy.  
-My journey has taken me from analyzing game film for Team Canada 🏀 to creating tools that improve diagnostic equity in Medical Physics 🏥.
-
 Every project I touch is guided by the same principle: serve others well and build with intention.
-
----
-
-## 🔨 Things I’ve Worked on or Building
-
-- 🙏 **Eunoia**: A blockchain-based platform for transparent, trackable giving  
-- 💍 **Wedflow**: An AI-powered SMS Secretary for engaged couples  
-- 🏀 **Game Flow Visualizer**: Visual play breakdowns for basketball coaching
 
 ---
 
