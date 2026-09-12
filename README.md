@@ -2,8 +2,6 @@
 
 🎯 I build thoughtful, purpose-driven products that serve real people.
 
-🧱 Founder @ Allie, your Shepherd for Life
-
 📊 Product + Data + Faith
 
 ---
